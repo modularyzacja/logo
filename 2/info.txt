@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Quantico-Bold
+font link: https://fonts.google.com/specimen/Quantico
+font author: MADType
+font author site: http://www.madtype.com/
+
+
+icon designer: Chandru
+icon designer link: /cshekar36
+        
+
+fontColor: {"gradient-0":"#9E2A01","gradient-1":"#3F016E"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#9E2A01","gradient-1":"#3F016E"}
+
+      
