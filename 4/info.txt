@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Changa-Light
+font link: https://www.fontsquirrel.com/fonts/changa
+font author: Eduardo Tunni
+font author site: http://www.tipo.net.ar/
+
+
+icon designer: mikicon
+icon designer link: /mikicon
+        
+
+fontColor: {"gradient-0":"#9284DB","gradient-1":"#2705C7"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#9284DB","gradient-1":"#2705C7"}
+
+      
